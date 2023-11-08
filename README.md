@@ -1,5 +1,3 @@
-# Requirement-Engineer
-
 # Requirement Engineer
 
 This repository contains the work of the Requirement Engineer project, which encompasses both personal and group contributions.
